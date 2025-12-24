@@ -153,13 +153,11 @@ We welcome contributions!
 
 👩‍💻 Built by:
 
-* [Farheen Imam](https://github.com/farheenimam)
 * [Tayyab Rehan](https://github.com/tayyabrehan)
+* [Farheen Imam](https://github.com/farheenimam)
+
 
 📧 Contact: [farheenimam.offically@gmail.com](mailto:farheenimam.offically@gmail.com)
 
 ---
 
-✨ That’s a **hackathon-ready README** that also looks professional for GitHub.
-
-Do you want me to **create a banner image (hero image) for the top of the README** (with your project name + tagline) so it looks more attractive?
