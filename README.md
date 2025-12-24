@@ -157,7 +157,7 @@ We welcome contributions!
 * [Farheen Imam](https://github.com/farheenimam)
 
 
-📧 Contact: [farheenimam.offically@gmail.com](mailto:farheenimam.offically@gmail.com)
+📧 Contact: [tayyabrehan.offically@gmail.com](mailto:ts5192608@gmail.com)
 
 ---
 
