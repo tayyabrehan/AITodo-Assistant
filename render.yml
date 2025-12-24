@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: ai-task-backend
+    env: node
+    rootDir: server
+    plan: free
+    buildCommand: "npm install && npm run build"
+    startCommand: "npm run start"
+    envVars:
+      - key: DATABASE_URL
+        sync: false   # set in Render dashboard
+      - key: SESSION_SECRET
+        sync: false   # add your JWT secret in Render dashboard
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
